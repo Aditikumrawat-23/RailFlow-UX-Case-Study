@@ -28,3 +28,8 @@ Modern UX/UI redesign of the IRCTC mobile booking experience.
 - Better seat selection
 - Simplified booking flow
 - Premium mobile experience
+
+---
+
+## Prototype Link
+https://www.figma.com/proto/DStGKvnxvu2Jd4Jtmld21D/Food-Design?node-id=168-15&p=f&t=2u9WjGaFtRNnpOjN-1&scaling=scale-down&content-scaling=fixed&page-id=148%3A2&starting-point-node-id=148%3A3
